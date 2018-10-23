@@ -202,7 +202,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     class Time_Thread extends Thread {
-        public void run() {
+        public void run(){
             while (true){
                 try {
                     one_s_timer.Timer();
