@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         index();
-        IV.setImageResource(R.drawable.ig);
+        IV.setImageResource(R.drawable.ic_launcher_background);
         sw.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked){
@@ -229,7 +229,7 @@ public class MainActivity extends AppCompatActivity {
         pd.dismiss();
         videoTool.int_fps=0;
         tv.setBackgroundColor(Color.WHITE);
-        IV.setImageResource(R.drawable.ig);
+        IV.setImageResource(R.drawable.ic_launcher_background);
     }
     private void index(){
         topbt = findViewById(R.id.top);
