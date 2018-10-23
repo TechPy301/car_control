@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="failed_conn">连接丢失,请重试，ret:-1</string>
+    <string name="pg_text">正在连接服务器</string>
+    <string name="Image">Image</string>
+    <string name="ser_ret_tv">字符串显示区域</string>
+    <string name="distance_tv">距离</string>
+    <string name="ip_et">输入ip地址</string>
+    <string name="angle_et">角度</string>
+    <string name="switch_text">自动连接服务器</string>
+    <string name="end_text">后退</string>
+    <string name="top_text">前进</string>
+    <string name="left_text">左转向</string>
+    <string name="right_text">右转向</string>
+    <string name="connect_text">连接服务器</string>
+    <string name="dis_connect">断开连接</string>
+</resources>
